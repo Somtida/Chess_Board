@@ -1,0 +1,18 @@
+td{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+.white{
+  background-color: #fff;
+}
+.black{
+  background-color: #000;
+}
+.pic{
+  background-image: url('http://pngimg.com/upload/chess_PNG8439.png');
+  background-size: 100px 90px;
+  background-repeat: no-repeat;
+  z-index: 5;
+
+}
